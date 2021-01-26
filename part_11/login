@@ -1,0 +1,5 @@
+<form action="/login" method="post" enctype="multipart/form-data" action="__URL__">
+    Username: <input type="text" name="user" />
+    Password: <input type="password" name="password" />
+    <input type="submit" value="Login" />
+    </form>

@@ -1,4 +1,4 @@
-from bottle import static_file, route, run
+from bottle import static_file, route, run, static_file
 
 
 @route('/show/<file>')
